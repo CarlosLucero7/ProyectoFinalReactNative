@@ -1,0 +1,23 @@
+export const CART = [
+    {
+        id:3,
+        categoria:1,
+        nombre:"Auto3",
+        km:'xxxxxkm',
+        precio:'$XXXXX' 
+    },
+    {
+        id:4,
+        categoria:2,
+        nombre:"Camion1",
+        km:'xxxxxkm',
+        precio:'$XXXXX' 
+    },
+    {
+        id:5,
+        categoria:2,
+        nombre:"Camion2",
+        km:'xxxxxkm',
+        precio:'$XXXXX' 
+    },
+]
